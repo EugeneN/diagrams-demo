@@ -1,5 +1,7 @@
 # diagrams-demo
 
+This is a `stack` setup for `diagrams` library. The actual code is borrowed from `diagrams` examples here: https://diagrams.github.io/gallery/Chart.html
+
 ## Build
 
 ```

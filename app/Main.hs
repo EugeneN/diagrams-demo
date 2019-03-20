@@ -1,3 +1,5 @@
+-- https://diagrams.github.io/gallery/Chart.html
+
 {-# LANGUAGE NoMonomorphismRestriction #-}
 {-# LANGUAGE FlexibleContexts          #-}
 {-# LANGUAGE TypeFamilies              #-}
