@@ -20,7 +20,10 @@ then open `result.svg` file with your favorite image viewer. In Linux/X11 you ca
 xdg-open result.svg
 ``` 
 
-command.
+command. You should see something like this:
+
+![result.svg](result.svg "result.svg")
+
 
 Alternatively, you can run:
 
